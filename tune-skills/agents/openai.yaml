@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tune Skills"
+  short_description: "Review, test, evaluate, and improve reusable Skills"
+  default_prompt: "Use $tune-skills to review this Skill, build a candidate revision, run it on real tasks, and improve it from the results."
