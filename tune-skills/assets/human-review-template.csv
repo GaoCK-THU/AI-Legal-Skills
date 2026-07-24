@@ -1,0 +1,2 @@
+trial_id,review_unit_id,review_unit_type,criterion,status,error_tag,observed_issue,suspected_cause,reviewer,notes
+example-trial,item-001,output_item,task-specific criterion,pass,,,,reviewer-name,

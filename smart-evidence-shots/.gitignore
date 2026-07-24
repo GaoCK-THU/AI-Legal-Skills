@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+output/
+outputs/
+screenshots/
+*.mp4
+*.mov
+*.pdf
+evidence_manifest.csv
+evidence_manifest.md
