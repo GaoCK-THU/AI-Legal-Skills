@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品需求分析"
+  short_description: "通过Demo、实测和可追溯证据探索、验证并表达产品需求"
+  default_prompt: "Use $product-requirement-analysis to explore, validate, or document this product requirement at the depth appropriate to its current stage."
